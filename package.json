@@ -1,0 +1,27 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronclayton94/Template-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronclayton94/Template-Engine/issues"
+  },
+  "homepage": "https://github.com/aaronclayton94/Template-Engine#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.4.0"
+  }
+}
