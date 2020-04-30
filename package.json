@@ -1,5 +1,5 @@
 {
-  "name": "template-engine",
+  "name": "Template-Engine",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,20 +8,23 @@
     "test": "test"
   },
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aaronclayton94/Template-Engine.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aaronclayton94/Template-Engine/issues"
   },
   "homepage": "https://github.com/aaronclayton94/Template-Engine#readme",
+  "devDependencies": {
+    "jest": "^25.5.0"
+  },
   "dependencies": {
-    "inquirer": "^7.1.0",
-    "jest": "^25.4.0"
+    "inquirer": "^7.1.0"
   }
 }
